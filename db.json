@@ -1,0 +1,29 @@
+{
+    "user": [
+      {
+        "id": 1,
+        "name": "minh tuan",
+        "age": 21,
+        "address": "470 tran dai nghia"
+      },
+      {
+        "id": 2,
+        "name": "minh tai",
+        "age": 21,
+        "address": "thanh pho hue"
+      },
+      {
+        "id": 3,
+        "name": "huu huy",
+        "age": 20,
+        "address": "quan khu ...."
+      },
+      {
+        "id": 4,
+        "name": "ngoc huy",
+        "age": 19,
+        "address": "470 tran dai nghia"
+      }
+    ]
+  }
+  
