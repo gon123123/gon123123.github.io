@@ -5,28 +5,32 @@
       "name": "minh tuan",
       "password": "minhtuan123",
       "address": "470 tran dai nghia",
-      "description": "chua co nguoi yeu"
+      "description": "chua co nguoi yeu",
+      "age": 21
     },
     {
       "id": 2,
       "name": "minh tai",
       "password": "minhtai123",
       "address": "dai hoc hue",
-      "description": "da co nguoi yeu"
+      "description": "da co nguoi yeu",
+      "age": 21
     },
     {
       "id": 3,
       "name": "huu huy",
       "password": "huuhuy123",
       "address": "dang di bo doi",
-      "description": "chua co nguoi yeu"
+      "description": "chua co nguoi yeu",
+      "age": 20
     },
     {
       "id": 4,
       "name": "ngoc huy",
       "password": "ngochuy123",
       "address": "viet han it",
-      "description": "sap co nguoi yeu"
+      "description": "sap co nguoi yeu",
+      "age": 19
     }
   ]
 }
