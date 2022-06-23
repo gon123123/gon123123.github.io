@@ -3,22 +3,26 @@
     {
       "id": 1,
       "name": "minh tuan",
-      "password": "minhtuan123"
+      "password": "minhtuan123",
+      "address": "470 tran dai nghia"
     },
     {
       "id": 2,
       "name": "minh tai",
-      "password": "minhtai123"
+      "password": "minhtai123",
+      "address": "dai hoc hue"
     },
     {
       "id": 3,
       "name": "huu huy",
-      "password": "huuhuy123"
+      "password": "huuhuy123",
+      "address": "dang di bo doi"
     },
     {
       "id": 4,
       "name": "ngoc huy",
-      "password": "ngochuy123"
+      "password": "ngochuy123",
+      "address": "viet han it"
     }
   ]
 }
